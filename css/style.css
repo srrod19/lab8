@@ -50,12 +50,6 @@
     text-align: center;
 }
 
-#sidebar ul {
-    padding: 0;
-    display: block;
-    list-style-type: none;
-}
-
 #sidebar ul li a {
     display: block;
     padding: 15px 0;
