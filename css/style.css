@@ -38,15 +38,22 @@
 }
 
 #sidebar {
+    position: fixed;
+    right: 0%;
     background-color: red;
 }
 
 #sidebar-container {
     width: 20%;
     height: 100%;
-    position: fixed;
     list-style-type: none;
     text-align: center;
+}
+
+#sidebar ul {
+    padding: 0;
+    display: block;
+    list-style-type: none;
 }
 
 #sidebar ul li a {
