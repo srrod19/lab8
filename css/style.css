@@ -36,3 +36,26 @@
     background-color: #000;
     text-decoration: underline overline;
 }
+
+#sidebar {
+    background-color: red;
+}
+
+#sidebar-container {
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    list-style-type: none;
+    text-align: center;
+}
+
+#sidebar ul li a {
+    display: block;
+    padding: 15px 0;
+    color: #fff;
+    text-decoration: #000;
+}
+
+#sidebar ul li a:hover {
+    background-color: #000;
+}
