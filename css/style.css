@@ -60,7 +60,7 @@
     display: block;
     padding: 15px 0;
     color: #fff;
-    text-decoration: #000;
+    text-decoration: none;
 }
 
 #sidebar ul li a:hover {
