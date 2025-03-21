@@ -1,0 +1,22 @@
+#main-navbar {
+    background-color: blue;
+}
+
+#navbar-container {
+    width: 100%;
+    position: relative;
+    list-style-type: none;
+}
+
+#main-navbar {
+    overflow: hidden;
+}
+
+#main-navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    vertical-align: top;
+}
+
