@@ -51,13 +51,6 @@
     list-style-type: none;
 }
 
-#sidebar-container {
-    width: 20%;
-    height: 100%;
-    list-style-type: none;
-    text-align: center;
-}
-
 #sidebar ul li a {
     display: block;
     padding: 15px 0;
